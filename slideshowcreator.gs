@@ -14,7 +14,8 @@ function myFunction() {
   values.forEach(function(page) {
     if(page[0]){
 
-    //replace '0' with whatever collum you want to assign a name to
+    //replace '0' with whatever column you want to assign a name to
+    //You can do this for multiple columns
     var name = page[0];
     
 
